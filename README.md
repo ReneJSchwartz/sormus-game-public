@@ -1,6 +1,11 @@
 # Sormus Game Public Documents & Info
 
-Sormus is a Fantasy RPG where where you tread a dark path towards salvation.
+#### #buildinpublic
+
+Sormus is a fantasy RPG with a story and megadungeons emphasis. 
+- Explore a space between TTRPGs, Action Combat MMORPGs, CRPGS, and ARPGs.
+- Make builds and respec freely without cost (* outside of 3 character creation stat points that make up your archetype)
+
 
 Attached Docs:
 - Game Design Document
@@ -10,14 +15,11 @@ Attached Docs:
 - Applications
 - You name it, it's here sooner or later
 
-Feel free to 
-A) give me feedback
-and
-B) use these materials as you see fit. I appreciate if you let me know how, if you do!
 
-This material is NOT permissed to be used to train AI.
+Copyright (c) Rene Schwartz
 
 Contact:
 Rene Schwartz
 discord: rene.dev
 email: rene.j.schwartz@gmail.com
+LinkedIn: https://www.linkedin.com/in/rene-schwartz-732a8649/
